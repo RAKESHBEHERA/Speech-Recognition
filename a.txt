@@ -1,0 +1,4 @@
+#JSGF V1.0;
+
+grammar simpleExample;
+public <greet> = Hello | sing | open | Hi | bye ;
